@@ -1,0 +1,24 @@
+.header{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    
+}
+
+.search-bar{
+    width: 80%;
+    Margin:20px;
+    border-radius: 20px;
+    height: 30px;
+    border-width: 0px;
+    background-color:rgb(242, 232, 219);
+
+
+}
+
+.search-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
